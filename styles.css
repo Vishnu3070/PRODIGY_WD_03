@@ -1,0 +1,38 @@
+~ #cell-2-o:checked ~ #end #message::before,
+#cell-3-o:checked
+  ~ #cell-4-o:checked
+  ~ #cell-5-o:checked
+  ~ #end
+  #message::before,
+#cell-6-o:checked
+  ~ #cell-7-o:checked
+  ~ #cell-8-o:checked
+  ~ #end
+  #message::before,
+#cell-0-o:checked
+  ~ #cell-3-o:checked
+  ~ #cell-6-o:checked
+  ~ #end
+  #message::before,
+#cell-1-o:checked
+  ~ #cell-4-o:checked
+  ~ #cell-7-o:checked
+  ~ #end
+  #message::before,
+#cell-2-o:checked
+  ~ #cell-5-o:checked
+  ~ #cell-8-o:checked
+  ~ #end
+  #message::before,
+#cell-0-o:checked
+  ~ #cell-4-o:checked
+  ~ #cell-8-o:checked
+  ~ #end
+  #message::before,
+#cell-2-o:checked
+  ~ #cell-4-o:checked
+  ~ #cell-6-o:checked
+  ~ #end
+  #message::before {
+  content: "Player 2 won!";
+}
